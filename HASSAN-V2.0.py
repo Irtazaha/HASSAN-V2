@@ -319,7 +319,7 @@ def rcrack(uid,pwx,tl):
             "accept-encoding": 'gzip, deflate, br',
             "accept-language": 'en-GB,en-US;q=0.9,en;q=0.8',
             'cache-control': 'max-age=0',
-            "referer": 'https://t.facebook.com/',
+            "referer": 'https://m.facebook.com/',
             "sec-ch-ua": '"Google Chrome";v="90", "Not)A;Brand";v="24", "Chromium";v="107"',
             "sec-ch-ua-mobile": '?1',
             "sec-ch-ua-platform": "Windows",
